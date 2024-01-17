@@ -1,6 +1,10 @@
 return {
   -- customize alpha options
   {
+    "nvim-notify",
+    enabled = false,
+  },
+  {
     "goolord/alpha-nvim",
     opts = function(_, opts)
       -- customize the dashboard header
