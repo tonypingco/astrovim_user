@@ -2,7 +2,7 @@ return {
   -- customize alpha options
   {
     "nvim-notify",
-    enabled = false,
+    enabled = true,
   },
   {
     "goolord/alpha-nvim",

@@ -1,3 +1,6 @@
+local discipline = require "user.discipline"
+discipline.cowboy()
+
 return {
   -- You can also add new plugins here as well:
   -- Add plugins, the lazy syntax

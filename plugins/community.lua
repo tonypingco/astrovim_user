@@ -19,6 +19,7 @@ return {
   { import = "astrocommunity.pack.markdown" },
   { import = "astrocommunity.motion.mini-move" },
   { import = "astrocommunity.completion.copilot-lua-cmp" },
+  { import = "astrocommunity.completion.copilot-lua" },
   { import = "astrocommunity.bars-and-lines.heirline-vscode-winbar" },
   { import = "astrocommunity.editing-support.ultimate-autopair-nvim" },
 }
